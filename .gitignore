@@ -56,6 +56,6 @@ CMakeCache.txt
 Makefile
 compile_commands.json
 
-# Netbean project (for now)
-nbproject
+# Netbean private directory
+private
 
