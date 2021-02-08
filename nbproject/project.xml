@@ -5,7 +5,7 @@
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
             <name>canopen-stack</name>
             <c-extensions>c</c-extensions>
-            <cpp-extensions>cpp,cxx</cpp-extensions>
+            <cpp-extensions>cpp</cpp-extensions>
             <header-extensions>h</header-extensions>
             <sourceEncoding>UTF-8</sourceEncoding>
             <make-dep-projects/>
@@ -14,11 +14,11 @@
             </sourceRootList>
             <confList>
                 <confElem>
-                    <name>Default</name>
+                    <name>local</name>
                     <type>0</type>
                 </confElem>
                 <confElem>
-                    <name>XC32</name>
+                    <name>samv71</name>
                     <type>0</type>
                 </confElem>
             </confList>
