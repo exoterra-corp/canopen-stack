@@ -48,3 +48,14 @@ prj_canopenstack*
 /.history
 /build
 /.vscode
+
+# Cmake artifacts
+*.cmake
+CMakeFiles
+CMakeCache.txt
+Makefile
+compile_commands.json
+
+# Netbean project (for now)
+nbproject
+
