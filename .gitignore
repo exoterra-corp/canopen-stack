@@ -48,3 +48,8 @@ prj_canopenstack*
 /.history
 /build
 /.vscode
+/canopen-stack.X/build/
+/canopen-stack.X/dist/
+.generated_files
+private
+
