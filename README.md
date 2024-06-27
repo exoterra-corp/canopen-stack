@@ -1,3 +1,13 @@
+# ExoTerra Free CANopen Stack
+
+ExoTerra forked v4.1.5 of the [Free CANopen Stack](https://canopen-stack.org/v4.4/) from Embedded Office and made the folowing modifications:
+
+- Integrations for MPLAB
+- Increased number of errors defined from 32 to 160
+
+This fork of the library is made available to ExoTerra customers to enable faster development and integration. The library supports both client and server paradigms. The Halo thruster only implements the server side functionality and, consequently, has only tested and verified the server using Python scripts designed to emulate the flight computer.
+
+The rest of this README document is authored by the maintainers of the library.
 
 # Free CANopen Stack
 
